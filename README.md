@@ -1,6 +1,6 @@
-# DeepSaaS - Modern SaaS Landing Page 🚀
+# DeepSaaS - Modern Landing Page 🚀
 
-A modern, responsive SaaS landing page inspired by the clean design systems of **Linear** and **Framer**.  
+A modern, responsive landing page inspired by the clean design systems of **Linear** and **Framer**.  
 Built with **TailwindCSS**, **AOS (Animate On Scroll)**, and pure JavaScript for smooth animations and interactions.
 
 ---
